@@ -1,2 +1,2 @@
 # my-fist-repo
-![een profiel foto](img/1.jpg)
+! width="350" height="600" [een profiel foto](img/1.jpg)
